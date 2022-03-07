@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salih</h1>
 
-- 🔭 I’m currently working on Game Project
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/salihkamas)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=salihkamas&show_icons=true&locale=en" alt="salihkamas" />
 

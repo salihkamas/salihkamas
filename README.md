@@ -9,6 +9,7 @@
 <a href="https://linkedin.com/in/salih-kamaş-316167204" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salih-kamaş-316167204" height="30" width="40" /></a>
 <a href="https://fb.com/salih.kamas" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="salih.kamas" height="30" width="40" /></a>
 <a href="mailto:msalihkamas@gmail.com" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="salihkamas" height="30" width="40" /></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

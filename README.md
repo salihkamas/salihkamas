@@ -34,33 +34,3 @@ Yazılım geliştirme, oyun geliştirme ve modern web teknolojileriyle ilgileniy
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 📌 Üzerinde Çalıştığım Alanlar
-
-- .NET ile temiz mimari ve API geliştirme
-- Unity ile mobil ve web tabanlı oyunlar
-- React / Next.js ile modern web arayüzleri
-- React Native ile mobil uygulama geliştirme
-- Kendi yazılım araçlarımı ve otomasyon sistemlerimi geliştirme
-
-## 🧩 İlgi Duyduğum Proje Türleri
-
-- 🎮 Mobil oyunlar
-- 🏆 Turnuva ve skor takip sistemleri
-- 🛒 Küçük işletmeler için web çözümleri
-- ⚙️ Developer productivity araçları
-- 📱 Web ve mobil uygulamalar
-
-## 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salihkamasy&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salihkamasy&layout=compact&theme=tokyonight)
-
-## 📫 Bana Ulaş
-
-[![GitHub](https://img.shields.io/badge/GitHub-salihkamasy-181717?style=for-the-badge&logo=github)](https://github.com/salihkamasy)
-
----
-
-> Sürekli öğreniyor, geliştiriyor ve gerçek projeler üzerinden deneyim kazanıyorum.

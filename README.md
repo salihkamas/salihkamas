@@ -1,15 +1,66 @@
-<h1 align="center">Hi 👋, I'm Salih</h1>
+# Merhaba, ben Salih Kamaş 👋
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/salihkamas)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=salihkamas&show_icons=true&locale=en" alt="salihkamas" />
+Yazılım geliştirme, oyun geliştirme ve modern web teknolojileriyle ilgileniyorum.  
+Özellikle **.NET backend**, **Unity oyun geliştirme**, **React / Next.js** ve **mobil uygulama geliştirme** alanlarında kendimi geliştiriyorum.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/salihkamas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="salihkamas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salih-kamaş-316167204" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salih-kamaş-316167204" height="30" width="40" /></a>
-<a href="https://fb.com/salih.kamas" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="salih.kamas" height="30" width="40" /></a>
-<a href="mailto:msalihkamas@gmail.com" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="salihkamas" height="30" width="40" /></a>
-</p>
+## 🚀 Hakkımda
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></p>
+- 🎮 Unity ile oyun ve interaktif uygulamalar geliştiriyorum
+- ⚙️ .NET ile backend geliştirme üzerine çalışıyorum
+- 🌐 React, Next.js ve modern frontend teknolojilerini öğreniyorum
+- 📱 React Native ile mobil uygulama geliştirmeye ilgi duyuyorum
+- 🧠 Yeni teknolojiler öğrenmeyi ve gerçek projeler üzerinden gelişmeyi seviyorum
+- 🛠️ Backend, frontend ve oyun geliştirme taraflarını birleştiren projeler üretmeyi hedefliyorum
+
+## 🧰 Kullandığım Teknolojiler
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Database & Tools
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 📌 Üzerinde Çalıştığım Alanlar
+
+- .NET ile temiz mimari ve API geliştirme
+- Unity ile mobil ve web tabanlı oyunlar
+- React / Next.js ile modern web arayüzleri
+- React Native ile mobil uygulama geliştirme
+- Kendi yazılım araçlarımı ve otomasyon sistemlerimi geliştirme
+
+## 🧩 İlgi Duyduğum Proje Türleri
+
+- 🎮 Mobil oyunlar
+- 🏆 Turnuva ve skor takip sistemleri
+- 🛒 Küçük işletmeler için web çözümleri
+- ⚙️ Developer productivity araçları
+- 📱 Web ve mobil uygulamalar
+
+## 📊 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salihkamasy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salihkamasy&layout=compact&theme=tokyonight)
+
+## 📫 Bana Ulaş
+
+[![GitHub](https://img.shields.io/badge/GitHub-salihkamasy-181717?style=for-the-badge&logo=github)](https://github.com/salihkamasy)
+
+---
+
+> Sürekli öğreniyor, geliştiriyor ve gerçek projeler üzerinden deneyim kazanıyorum.

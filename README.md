@@ -1,18 +1,18 @@
-# Merhaba, ben Salih Kamaş 👋
+# Hi, I'm Salih Kamaş 👋
 
-Yazılım geliştirme, oyun geliştirme ve modern web teknolojileriyle ilgileniyorum.  
-Özellikle **.NET backend**, **Unity oyun geliştirme**, **React / Next.js** ve **mobil uygulama geliştirme** alanlarında kendimi geliştiriyorum.
+I'm interested in software development, game development, and modern web technologies.  
+I'm currently improving myself especially in **.NET backend development**, **Unity game development**, **React / Next.js**, and **mobile app development**.
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- 🎮 Unity ile oyun ve interaktif uygulamalar geliştiriyorum
-- ⚙️ .NET ile backend geliştirme üzerine çalışıyorum
-- 🌐 React, Next.js ve modern frontend teknolojilerini öğreniyorum
-- 📱 React Native ile mobil uygulama geliştirmeye ilgi duyuyorum
-- 🧠 Yeni teknolojiler öğrenmeyi ve gerçek projeler üzerinden gelişmeyi seviyorum
-- 🛠️ Backend, frontend ve oyun geliştirme taraflarını birleştiren projeler üretmeyi hedefliyorum
+- 🎮 I develop games and interactive applications with Unity
+- ⚙️ I'm working on backend development with .NET
+- 🌐 I'm learning React, Next.js, and modern frontend technologies
+- 📱 I'm interested in mobile app development with React Native
+- 🧠 I enjoy learning new technologies and improving myself through real projects
+- 🛠️ I aim to build projects that combine backend, frontend, and game development
 
-## 🧰 Kullandığım Teknolojiler
+## 🧰 Technologies I Use
 
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
